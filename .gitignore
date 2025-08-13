@@ -1,4 +1,6 @@
 
+# Maven build
+target/
 
 *.class
 ### IntelliJ IDEA ###
